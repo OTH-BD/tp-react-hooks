@@ -52,9 +52,9 @@ npm start
 
 
 Etat de recherche avec debounce juste après l'insertion :   
-![2](images/search1.png.png)
+![2](screenshots/search2.png)
 Etat de recherche avec debounce après 1 second : 
-![3](images/1.2%20after.pngg)
+![3](screenshots/search1.png)
 ###  Problèmes rencontrés & Solutions :  
 - **Problème :** La recherche était exécutée à chaque frappe de touche, causant trop d’appels API.  
 - **Solution :** Utilisation de `setTimeout` et `clearTimeout` pour réduire les requêtes.  
@@ -77,9 +77,9 @@ Etat de recherche avec debounce après 1 second :
    - Mise à jour de la langue avec `setLanguage()`  
 
 English version 
-![2.2](images/2.2.png)
+![2.2](screenshots/englishv.png)
 German version
-![2.1](images/2.1.png)
+![2.1](screenshots/deushv.png)
 
 ---
 
@@ -97,15 +97,15 @@ German version
    - Permet de stocker des valeurs dans `localStorage` pour éviter la perte de données après un rafraîchissement.  
 
 Etat de recherche avec debounce juste après l'insertion : 
-![3.1](images/3.1.before.png)
+![3.1](screenshots/avInsert.png)
 Etat de recherche avec debounce après 1 seconde : 
-![3.1](images/3.1.after.png)
+![3.1](screenshots/aprInsert.png)
 
 English version avec local Storage
-![3.2](images/3.2.png)
+![3.2](screenshots/ex3first.png)
 
 De version avec local Storage
-![3.2](images/3.2.de.png)  
+![3.2](screenshots/ex3last.png)  
 
 ---
 
