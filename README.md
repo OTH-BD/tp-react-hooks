@@ -9,7 +9,7 @@ Ce TP a pour objectif de mettre en pratique l'utilisation des **Hooks React** (`
 ### 1️⃣ Cloner le dépôt  
 
 ```sh
-https://github.com/OTH-BD/tp-react-hooks.git
+git clone https://github.com/pr-daaif/tp-react-hooks.git
 cd tp-react-hooks
 ```
 
@@ -17,7 +17,7 @@ cd tp-react-hooks
 
 ```sh
 git remote remove origin
-git remote add origin https://github.com/saadbr/tp-react-hooks.git
+git remote add origin https://github.com/OTH-BD/tp-react-hooks.git
 git push -u origin main
 ```
 
